@@ -22,7 +22,7 @@ Check Grok Bot and Grok. Leave Cursor unchecked so it is not reviewed twice.
 
 ### Brief description
 
-Google Search Console for one site, designed by enterprise SEO consultants. Ask about clicks, queries, and whether a page is indexed. Free for one website. Sign in with Google.
+Ask about Google Search Console in plain language: clicks, queries, indexing, and sitemaps. That is the core, and it is free for one website. Paid plans add Google Analytics 4, read-only Google Ads, live search results, keyword research, backlinks, schema checks, and technical SEO. Designed by enterprise SEO consultants. Sign in with Google.
 
 ### Testing instructions
 
