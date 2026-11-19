@@ -27,7 +27,7 @@ Paid plans are optional. They add more properties, remove the daily limits, and 
 
 ## Links
 
-- [Site](https://www.advancedgsc.com)
+- [Site](https://www.advancedgsc.com/mcp)
 - [Pricing](https://www.advancedgsc.com/mcp/pricing)
 - [Docs](https://www.advancedgsc.com/mcp/docs)
 - [Terms](https://www.advancedgsc.com/mcp/terms)

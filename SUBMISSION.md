@@ -16,7 +16,7 @@ Check Grok Bot and Grok. Leave Cursor unchecked so it is not reviewed twice.
 
 - Organization name: Advanced GSC
 - Organization handle: advancedgsc
-- Website: https://www.advancedgsc.com
+- Website: https://www.advancedgsc.com/mcp
 - Logotype URL: https://raw.githubusercontent.com/AminForou/advanced-gsc-plugin/main/assets/logo.png
 - MCP server URL or repository: https://github.com/AminForou/advanced-gsc-plugin
 
